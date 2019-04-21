@@ -23,14 +23,17 @@ TODO
 
 ## Static Site Generator
 
-- [MkDocs](https://www.mkdocs.org/)
-  - Sample: [wiki](https://vincentliu99999.github.io/wiki/)
+- [MkDocs](https://www.mkdocs.org/) 
 - [Hexo](https://hexo.io/)
-  - Sample: [blog](https://vincentliu99999.github.io/)
 - [Gatsby](https://www.gatsbyjs.org/)
 - [VuePress](https://vuepress.vuejs.org/)
 - [Docusaurus](https://docusaurus.io/)
 - [更多](https://www.staticgen.com/)
+
+### Sample
+
+- [wiki](https://vincentliu99999.github.io/wiki/)
+- [blog](https://vincentliu99999.github.io/)
 
 ## 參考資料
 
