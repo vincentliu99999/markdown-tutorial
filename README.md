@@ -13,6 +13,23 @@ Markdown 是在 2004 年由 John Gruber 所開發出能將純文字轉換成 HTM
 - 刪除線(Strikethrough)
 - 自動連結(Autolinks)
 
+<details>
+  <summary>Supprise</summary>
+  
+  ---
+  
+  [折疊內容](https://github.com/dear-github/dear-github/issues/166)
+  
+  ---
+  
+  ```html
+  <details>
+    <summary>Click to expand</summary>
+    whatever
+  </details>
+  ```
+</details>
+
 ## 工具
 
 - [Dingus](https://daringfireball.net/projects/markdown/dingus) 轉換工具 by John Gruber
