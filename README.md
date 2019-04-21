@@ -21,6 +21,17 @@ Markdown 是在 2004 年由 John Gruber 所開發出能將純文字轉換成 HTM
 
 TODO
 
+## Static Site Generator
+
+- [MkDocs](https://www.mkdocs.org/)
+  - Sample: [wiki](https://vincentliu99999.github.io/wiki/)
+- [Hexo](https://hexo.io/)
+  - Sample: [blog](https://vincentliu99999.github.io/)
+- [Gatsby](https://www.gatsbyjs.org/)
+- [VuePress](https://vuepress.vuejs.org/)
+- [Docusaurus](https://docusaurus.io/)
+- [更多](https://www.staticgen.com/)
+
 ## 參考資料
 
 - [Markdown - 維基百科](https://zh.wikipedia.org/wiki/Markdown)
