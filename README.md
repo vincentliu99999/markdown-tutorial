@@ -19,7 +19,9 @@ Markdown 是在 2004 年由 John Gruber 所開發出能將純文字轉換成 HTM
 
 ### VS Code Extension
 
-TODO
+- [Markdown Shortcuts](https://marketplace.visualstudio.com/items?itemName=mdickin.markdown-shortcuts) 右鍵可轉換各種格式
+- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+- [Paste URL](https://marketplace.visualstudio.com/items?itemName=kukushi.pasteurl) 快速貼上圖片
 
 ## Static Site Generator
 
