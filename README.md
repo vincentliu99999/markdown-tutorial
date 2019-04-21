@@ -16,6 +16,7 @@ Markdown 是在 2004 年由 John Gruber 所開發出能將純文字轉換成 HTM
 ## 工具
 
 - [Dingus](https://daringfireball.net/projects/markdown/dingus) 轉換工具 by John Gruber
+- [DocToc](https://github.com/thlorenz/doctoc) TOC 產生器
 
 ### VS Code Extension
 
