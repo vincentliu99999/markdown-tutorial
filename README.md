@@ -16,16 +16,14 @@ Markdown 是在 2004 年由 John Gruber 所開發出能將純文字轉換成 HTM
 <details>
   <summary>Supprise</summary>
   
-  ---
-  
   [折疊內容](https://github.com/dear-github/dear-github/issues/166)
-  
-  ---
   
   ```html
   <details>
-    <summary>Click to expand</summary>
-    whatever
+    <summary>Supprise</summary>
+    
+    [折疊內容](https://github.com/dear-github/dear-github/issues/166)
+    
   </details>
   ```
 </details>
